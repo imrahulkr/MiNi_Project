@@ -4,7 +4,7 @@
 
 * There is no change in the rules of the game. No new rule is added or removed.
 
-* The person who make 3 (same symbol) either " * " or "O" wins.
+* The person who make 3 (same symbol) either " X " or " O " wins.
 
 * we have presented the initial state of the game which shows the numbers and these 
     numbers are actual positions in the game (1 to 9) and only these numbers should 
@@ -26,7 +26,7 @@
                                 |  .  |  .  |  .  |
                                 |_____|_____|_____|
                                 |     |     |     |
-                                |  .  |  .  |  .  |         <<===== Initial State. Where "." is showing empty positions 
+                                |  .  |  .  |  .  |         <<===== Initial State. Where " . " is showing empty positions 
                                 |_____|_____|_____|                 ( Here all positions are empty now )
                                 |     |     |     |
                                 |  .  |  .  |  .  |
@@ -38,7 +38,7 @@
                                 |_____|_____|_____|
                                 |     |     |     |
                                 |  X  |  .  |  .  |         <<===== State Showing the when game is being played. 
-                                |_____|_____|_____|                 "X" is for player 1 and "O" is for player 2 and "." shows places to be filled.
+                                |_____|_____|_____|                 " X " is for player 1 and " O " is for player 2 and " . " shows places to be filled.
                                 |     |     |     |
                                 |  O  |  O  |  X  |
                                 |     |     |     |
